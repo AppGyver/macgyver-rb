@@ -11,6 +11,10 @@ Phew.
 
 Huge thanks to all of the project mentioned above!
 
+# Debugging in MacGap/MacGapNode ?
+
+defaults write com.<appname> developer 1
+
 # What is MacGap?
 
 MacGap is a lightweight WebKit wrapper for HTML apps, allowing you to distribute web applications as desktop apps. 
